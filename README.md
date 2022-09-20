@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian Arroyave</h1>
 <h3 align="center">A young student currently working on academyc projects, trying to improve everyday</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeeay&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeeay" /> </p>
 
 - 🔭 I’m currently working on **Academyc project "Flying Crap"**
 
@@ -17,6 +16,7 @@
 
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaydeeay&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeeay" /> </p>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=julititoa&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **jaydeeay/JayDeeAy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
