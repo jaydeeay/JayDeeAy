@@ -2,9 +2,7 @@
 <h3 align="center">A young student currently working on academyc projects, trying to improve everyday</h3>
 
 
-- 🔭 I’m currently working on **Academyc project "Flying Crap"**
-
-- 🌱 I’m currently learning **UI/UX, Unreal5**
+- 🔭 I’m currently working on Personal projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
